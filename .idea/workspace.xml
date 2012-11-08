@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e6dc790-355f-4310-a37c-3a611e936168" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/pulso.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="C:\Sites\pulso\app\assets\stylesheets\application.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\pulso\app\views\layouts\application.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\pulso\public\index.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/pulso.iml" afterPath="$PROJECT_DIR$/.idea/pulso.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/routes.rb" afterPath="$PROJECT_DIR$/config/routes.rb" />
     </list>
     <ignored path="pulso.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -53,7 +43,7 @@
       <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="1" selection-start="142" selection-end="142" vertical-scroll-proportion="0.027642276">
+            <state line="0" column="40" selection-start="40" selection-end="40" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -567,7 +557,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="1" selection-start="142" selection-end="142" vertical-scroll-proportion="0.027642276">
+        <state line="0" column="40" selection-start="40" selection-end="40" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
